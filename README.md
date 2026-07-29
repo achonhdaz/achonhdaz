@@ -8,7 +8,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=240&section=header&text=Welcome%20To%20my%20Profile,%20I'm&fontSize=45&fontColor=FFFFFF&desc=Software%20Engineer%20|%20Web%20Developer%20|%20Mobile%20Developer&descAlignY=65&animation=fade"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=240&section=header&text=Welcome%20,%20I'm&fontSize=40&fontColor=FFFFFF&desc=Software%20Engineer%20|%20Web%20Developer%20|%20Mobile%20Developer&descAlignY=65&animation=fade"/>
 </p> 
 
 
