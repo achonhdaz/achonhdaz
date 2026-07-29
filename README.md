@@ -21,7 +21,7 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Software Engineer focused on Web Development<br>🌱 Currently improving my skills in modern technologies<br>🔥 Interested in clean code, software architecture, and problem solving<br>🎯 Always learning and taking on new challenges</p>
+<p data-importer="text" align="left">💻 Software Engineer<br>🌱 Web Developer, Mobile Developer, Business Intelligence<br>🔥 Always Learning<br>🎯 Building Clean & Efficient Solutions</p>
 
 ###
 
