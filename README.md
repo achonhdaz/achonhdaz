@@ -1,15 +1,18 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=140&section=header&text=Welcome!&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 style="margin-top:-10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome!;Hi+there,+I'm+Achraf+%F0%9F%91%8B" alt="Typing Animation"/>
+<h1 align="center" style="margin-top:-35px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Achraf+%F0%9F%91%8B;Welcome!" alt="Typing Animation"/>
 </h1>
 
-<p style="margin-top:-10px;">
-  <b>💻 Software Engineer | 🚀 Full-Stack Developer</b>
+<p align="center" style="margin-top:-20px;">
+  <b>
+    <span style="color:#00F7FF;">💻 Software Engineer</span>
+    <span style="color:#FFFFFF;"> | 🚀 Full-Stack Developer</span>
+  </b>
 </p>
 
 </div>
