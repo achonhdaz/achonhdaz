@@ -1,20 +1,10 @@
 <div align="center">
-  <div style="position: relative; display: inline-block;">
-    <!-- Wave background -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=180&section=header" 
-         style="display: block;" />
-    
-    <!-- Text overlay positioned absolutely over the wave -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; text-align: center;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Achraf+%F0%9F%91%8B;Welcome!" 
-           style="display: block; margin: 0 auto;" />
-      
-      <br/>
-      
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full-Stack+Developer" 
-           style="display: block; margin: 10px auto 0;" />
-    </div>
-  </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=180&section=header" />
+<div style="margin-top: -120px;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Achraf+%F0%9F%91%8B;Welcome!" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full-Stack+Developer" />
+</div>
 </div>
 <!-- tkjsflkjdsflkdsjflkdsjflkdjldkqsdlkfjqsdlkfjqsdlkfjqsdlkfjsq -->
 ###
