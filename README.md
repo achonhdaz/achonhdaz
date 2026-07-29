@@ -1,5 +1,5 @@
 
-
+<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=180&section=header"/>
 
@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&repeat=false&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full-Stack+Developer" />
 
-
+</div>
 
 
 ###
