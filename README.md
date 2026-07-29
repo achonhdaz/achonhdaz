@@ -8,21 +8,8 @@
 </div> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Hello%20There,%20I'm&fontSize=45&fontColor=FFFFFF&desc=Software%20Engineer%20|%20Web%20Developer%20|%20Mobile%20Developer&descAlignY=65&animation=fade"/>
 </p>
-
-<div align="center" style="margin-top:-170px;">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Software+Engineer+%7C+Web+Developer"/>
-
-</div>
-
-<br><br><br><br><br>
-
 
 ###
 
