@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header"/>
 </p>
 
-<h1 style="margin-top:-20px;">
+<h1 style="margin-top:-10px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome!;Hi+there,+I'm+Achraf+%F0%9F%91%8B" alt="Typing Animation"/>
 </h1>
 
