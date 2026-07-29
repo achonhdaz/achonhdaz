@@ -7,14 +7,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&repeat=false&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full-Stack+Developer" />
 </div> -->
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Hello%20There,%20I'm&fontSize=45&fontColor=FFFFFF&desc=Software%20Engineer%20|%20Web%20Developer%20|%20Mobile%20Developer&descAlignY=65&animation=fade"/>
-</p> -->
-
-
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=420&section=header&text=Hello%20There,%20I'm&fontSize=45&fontColor=FFFFFF&desc=Software%20Engineer%20|%20Web%20Developer%20|%20Mobile%20Developer&descAlignY=65&animation=fade"/>
+</p> 
+
+
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Hello%20There,%20I'm&fontSize=45&fontColor=FFFFFF&textY=70&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Mobile%20Developer&descSize=20&descAlignY=65&animation=fade"/>
-</p>
+</p> -->
 
 ###
 
