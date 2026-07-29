@@ -1,5 +1,5 @@
-<h1 data-importer="text" align="center">Hi, hello there !👋</h1>
-<p data-importer="text" align="center">Software Engineer | Full-Stack Developer</p>
+<h1 align="center" style="margin-bottom: 0;">Hi, hello there! 👋</h1>
+<p align="center" style="margin-top: 0;">Software Engineer | Full-Stack Developer</p>
 
 ###
 
