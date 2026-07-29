@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Hi, hello there! 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header&text=Welcome!&fontSize=40&fontColor=ffffff"/>
+</p>
   <p>Software Engineer | Full-Stack Developer</p>
 </div>
 
