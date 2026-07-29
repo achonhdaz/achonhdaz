@@ -1,18 +1,16 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=140&section=header&text=Welcome!&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<h1 align="center" style="margin-top:-35px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Achraf+%F0%9F%91%8B;Welcome!" alt="Typing Animation"/>
-</h1>
-
-<p align="center" style="margin-top:-20px;">
-  <b>
-    <span style="color:#00F7FF;">💻 Software Engineer</span>
-    <span style="color:#FFFFFF;"> | 🚀 Full-Stack Developer</span>
-  </b>
+  <img src="https://capsule-render.vercel.app/api?
+type=waving&
+color=0:00F7FF,100:7F00FF&
+height=200&
+section=header&
+text=Welcome!%20%F0%9F%91%8B%0AHi%20there,%20I'm%20Achraf%0A%F0%9F%92%BB%20Software%20Engineer%20%7C%20Full-Stack%20Developer&
+fontSize=35&
+fontColor=ffffff&
+animation=fadeIn&
+fontAlignY=35"/>
 </p>
 
 </div>
