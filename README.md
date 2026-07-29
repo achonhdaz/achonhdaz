@@ -1,31 +1,6 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-type=waving&
-color=0:00F7FF,100:7F00FF&
-height=220&
-section=header&
-text=Hi%20there,%20I'm%20Achraf%20👋&
-fontSize=45&
-fontColor=ffffff&
-fontAlignY=40"/>
-</p>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=200&lines=Hi+there,+I'm+Achraf+👋;Software+Engineer;Full-Stack+Developer;React+⚛️;Node.js+🚀;Java+☕;Spring+Boot+🍃;Python+🐍" />
-
-</div>
-
-
-
-
-<!-- <div align="center">
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=180&section=header"/>
 </p>
 
@@ -38,13 +13,6 @@ fontAlignY=40"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full-Stack+Developer" />
 
 </div>
-
-</div>
-<div align="center">
-
-<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Achraf%20👋&text2=💻%20Software%20Engineer%20%7C%20Full-Stack%20Developer&width=800&height=250&color=00F7FF"/>
-
-</div> -->
 
 <!-- tkjsflkjdsflkdsjflkdsjflkdjldkqsdlkfjqsdlkfjqsdlkfjqsdlkfjsq -->
 ###
