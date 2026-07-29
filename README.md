@@ -1,21 +1,11 @@
+
+
+</div>
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=180&section=header"/>
-</p>
-
-<div style="margin-top:-150px;">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Achraf+%F0%9F%91%8B;Welcome!" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full-Stack+Developer" />
+<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Achraf%20👋&text2=💻%20Software%20Engineer%20%7C%20Full-Stack%20Developer&width=800&height=250&color=00F7FF"/>
 
 </div>
-
-</div>
-
 ###
 
 <h2 data-importer="text" align="left">About me</h2>
