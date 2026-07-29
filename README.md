@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Software Engineer | Full-Stack Developer</p>
+<p data-importer="text" align="center">Software Engineer | Full-Stack Developer</p>
 
 ###
 
