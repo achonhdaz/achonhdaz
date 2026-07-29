@@ -1,12 +1,18 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=180&section=header" />
-<div style="margin-top: -120px;">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=180&section=header"/>
+</p>
+
+<div style="margin-top:-150px;">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Achraf+%F0%9F%91%8B;Welcome!" />
+
 <br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full-Stack+Developer" />
+
 </div>
-</div>
-<!-- tkjsflkjdsflkdsjflkdsjflkdjldkqsdlkfjqsdlkfjqsdlkfjqsdlkfjsq -->
 ###
 
 <h2 data-importer="text" align="left">About me</h2>
