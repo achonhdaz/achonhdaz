@@ -13,6 +13,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full-Stack+Developer" />
 
 </div>
+
+
 ###
 
 <h2 data-importer="text" align="left">About me</h2>
