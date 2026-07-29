@@ -1,7 +1,4 @@
 <h1 data-importer="text" align="center">Hi, hello there !👋</h1>
-
-
-
 <p data-importer="text" align="center">Software Engineer | Full-Stack Developer</p>
 
 ###
